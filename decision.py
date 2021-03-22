@@ -1,3 +1,5 @@
+# https://codereview.stackexchange.com/questions/176371/stock-trading-script
+
 def make_trades(starting_cash, prices, crossovers):
 
     value = [starting_cash] #set value to starting_cash
